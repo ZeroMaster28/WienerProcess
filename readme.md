@@ -1,1 +1,1 @@
-Program for generating Wiener process sample path. Basic approach is to generate partial sums of independent normal distributed random variables with variation equal to timestep.
+Program for generating Wiener process sample path. Basic approach is to generate partial sums of independent normal distributed random variables with variation equal to timestep. Output is csv text file of the form: x-time points, y-values for given point. 
